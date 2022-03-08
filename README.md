@@ -22,6 +22,6 @@ This project is to do EDA and build a liner regression model to predict housing 
 	* predict on test data
 	
 ## Conclusions
-	* We could build a good model with 68% accuracy, but we can make it better by adding more derived varibales
+	* Developed a model with 68% accuracy, but we can make it better by adding more derived varibales
 	
 
